@@ -1,0 +1,37 @@
+body{
+  background-color: black;
+}
+
+.all{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 80px;
+  justify-content: space-between;
+}
+
+.heading{
+  color: wheat;
+}
+.vc{
+  color: white;
+
+}
+
+.finish{
+  font-size: x-large;
+  font-style: initial;
+  color: white;
+}
+.table{
+  color: white;
+}
+.stdm{
+  color: chartreuse;
+  font-size: xx-large;
+}
+.frms{
+  color: white;
+}
+.trs{
+  color: darkturquoise;
+}
